@@ -1,6 +1,6 @@
 ### This is the ETL processing for Rox Application ###
 
-![Project Architecture](image.png)
+![Project Architecture](Architecture.jpg)
 
 # Architecture #
 On this project the architecture choosen is  all based on Google Cloud environment (GCP). 
