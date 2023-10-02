@@ -1,6 +1,8 @@
 ### This is the ETL processing for Rox Application ###
 
-# Architecture (For a visual notion of it, please check Architecture.jpg)
+![Project Architecture](image.png)
+
+# Architecture #
 On this project the architecture choosen is  all based on Google Cloud environment (GCP). 
 The data flow is:
   1. Create Google Project: ETL-Rox-application
